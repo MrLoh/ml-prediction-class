@@ -8,3 +8,6 @@ Assignments for the regression course of the University of Washington in the cou
 - [week 3 assignment](https://github.com/MrLoh/ml-regression-class/blob/master/w3/a1.r.ipynb)
 - [week 4 assignment 1](https://github.com/MrLoh/ml-regression-class/blob/master/w4/a1.ipynb)
 - [week 4 assignment 2](https://github.com/MrLoh/ml-regression-class/blob/master/w4/a2.r.ipynb)
+- [week 5 assignment 1](https://github.com/MrLoh/ml-regression-class/blob/master/w5/a1.ipynb)
+- [week 5 assignment 2](https://github.com/MrLoh/ml-regression-class/blob/master/w5/a2.ipynb)
+- [week 6 assignment](https://github.com/MrLoh/ml-regression-class/blob/master/w6/a1.ipynb)
